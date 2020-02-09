@@ -2,8 +2,8 @@
     "name": "lwc-slds",
     "description": "LWC standalone + SLDS",
     "version": "0.0.0",
-    "author": "Pierre-Marie Dartus",
-    "bugs": "https://github.com/Pierre-Marie Dartus/lwc-slds/issues",
+    "author": "scottpelak",
+    "bugs": "https://github.com/scottpelak/lwc-slds/issues",
     "dependencies": {
         "lwc-services": "^1"
     },
@@ -16,7 +16,7 @@
     "engines": {
         "node": ">=10.0.0"
     },
-    "homepage": "https://github.com/Pierre-Marie Dartus/lwc-slds",
+    "homepage": "https://github.com/scottpelak/lwc-slds",
     "husky": {
         "hooks": {
             "pre-commit": "lint-staged"
@@ -37,7 +37,7 @@
             "git add"
         ]
     },
-    "repository": "Pierre-Marie Dartus/lwc-slds",
+    "repository": "scottpelak/lwc-slds",
     "scripts": {
         "build": "lwc-services build -m production",
         "build:development": "lwc-services build",
