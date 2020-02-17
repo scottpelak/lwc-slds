@@ -1,7 +1,7 @@
 {
-    "name": "scottpelak-lwc-slds",
+    "name": "scottpelak-charcar-weddings",
     "description": "Config for Heroku Pipelines and Review Apps",
-    "repository": "https://github.com/scottpelak/lwc-slds",
+    "repository": "https://github.com/scottpelak/charcar-weddings",
     "scripts": {},
     "env": {
         "NODE_ENV": {
